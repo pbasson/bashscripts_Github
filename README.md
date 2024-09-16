@@ -26,6 +26,8 @@ Collection of Bash Scripts that have multiple purposes, as the following:
     - `docker build -t bashscripts_github:latest .` 
 3. Run Docker Container: 
     - `docker run --rm -d -it bashscripts_github:latest `
-4. Execute Bash inside of Docker Container: 
-    - `docker exec -it <image_id> bash`
-5. Execute Shell Script from Docker Container
+4. Check Docker Container is running and get the ContainerId for bashscripts_github:latest: 
+    - `docker ps`
+5. Execute Bash inside of Docker Container: 
+    - `docker exec -it <container_id> bash`
+6. Execute Shell Script from Docker Container
