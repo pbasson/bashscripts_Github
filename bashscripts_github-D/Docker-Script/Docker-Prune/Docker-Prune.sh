@@ -3,7 +3,7 @@
 # bash $HOME/bashscripts_github/bashscripts_github-D/Docker-Script/Docker-Prune/Docker-Prune.sh
 
 # AUTHOR: PREETPAL BASSON
-# PURPOSE: Find all Directory and output to file with Hidden and MaxDepth filters 
+# PURPOSE: Docker Prune Command executed to Remove all unused Images, Containers and Networks etc. PLEASE USE WITH CAUTION
 # PREREQUISITE: Execute from Anywhere 
 
 function header(){
@@ -49,7 +49,7 @@ function entry_select() {
 }
 
 function initialize() {
-    echo "!!! WARNING: Docker Container and Images will be Removed. Know what you are doing"
+    echo "!!! WARNING: Docker Container/s and Image/s will be Removed. PLEASE USE WITH CAUTION"
     echo 
 }
 
