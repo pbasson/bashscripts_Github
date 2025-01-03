@@ -1,14 +1,22 @@
-# BASH Scripts
-
-## Summary
-
-Collection of Bash Scripts that have multiple purposes, as the following: 
-
-- /bashscripts_github-F/Find-Scripts: Collection of Scripts using the Command Find
-
+# BASH Scripts By Preetpal Basson
 
 --------------
+## Overview
 
+A collection of BASH scripts that execute shell commands to automate daily or specific tasks.
+
+--------------
+## Features
+
+| Directory | Description |
+|---|---| 
+| /bashscripts_github-F/Find-Scripts | Collection of Scripts using the Command Find |
+
+| Languages |
+|---|
+| Shell |
+
+--------------
 ## Usage
 
 1. Locally from Cloning 
