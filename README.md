@@ -8,13 +8,13 @@ A collection of BASH scripts that execute shell commands to automate daily or sp
 --------------
 ## Features
 
-| Directory | Description |
-|---|---| 
-| /bashscripts_github-F/Find-Scripts | Collection of Scripts using the Command Find |
-
 | Languages |
 |---|
 | Shell |
+
+| Directory | Description |
+|---|---| 
+| /bashscripts_github-F/Find-Scripts | Collection of Scripts using the Command Find |
 
 --------------
 ## Usage
